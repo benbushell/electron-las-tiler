@@ -1,4 +1,4 @@
-// Interface for tiling large LAS files.
+// Electron interface for tiling large LAS files.
 
 import io from "socket.io-client";
 import { useEffect, useState, useRef } from "react";
